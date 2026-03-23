@@ -1,0 +1,34 @@
+{
+  "success": false,
+  "message": "STOP: TOTAL NO. OF F,G EVALUATIONS EXCEEDS LIMIT",
+  "final_mae": 1.060689039247144e-12,
+  "best_parameters": {
+    "porosity": 0.4200001321998908,
+    "lambda_thawed": 1.6400004465169085,
+    "cap_s": 789.9985920706918
+  },
+  "best_scales": {
+    "porosity_scale": 1.0000003147616447,
+    "lambda_thawed_scale": 1.0000002722664076,
+    "cap_s_scale": 0.9999982178110023
+  },
+  "initial_scales": {
+    "porosity_scale": 1.1394267984578836,
+    "lambda_thawed_scale": 0.5250107552226669,
+    "cap_s_scale": 0.7750293183691193
+  },
+  "relative_bounds": {
+    "porosity_scale": [
+      0.5,
+      1.5
+    ],
+    "lambda_thawed_scale": [
+      0.5,
+      1.5
+    ],
+    "cap_s_scale": [
+      0.5,
+      1.5
+    ]
+  }
+}
